@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/td00
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://verify.thies.xyz
+  * I am td00 (https://keybase.io/td00) on keybase.
+  * I have a public key ASB_WYSXtDZ5kHcOdNk1wNbMSt35qxVDb7AEiSXxVUGgbwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aff157aee5ebd0c2f2c66fb1dc4e7d358dae126b352489f4379f39436bd950430a",
+      "host": "keybase.io",
+      "kid": "01207f598497b4367990770e74d935c0d6cc4addf9ab15436fb0048925f15541a06f0a",
+      "uid": "aba12cffac2aae9f7fdda441d312db19",
+      "username": "td00"
+    },
+    "merkle_root": {
+      "ctime": 1706140105,
+      "hash": "1c45bcbdb51cb268b4c5cbcc0dd5d635273d7883232b313eec410b43dc7f1eebddc58d65272bfe06f4cc9c01b4b8ce84bc119222833783733d234c91f79b5a1b",
+      "hash_meta": "1cae2ea6da84c22bda3cbc9a28854f18b4f4fe83e40bc1b8b0de654e77a98868",
+      "seqno": 25393226
+    },
+    "service": {
+      "entropy": "4II9p8eq9lcFcPrTeUk/mzZp",
+      "hostname": "verify.thies.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1706140191,
+  "expire_in": 504576000,
+  "prev": "24f78850e70c588c2384b2848cb919f422a091a351b7755908483a8677363545",
+  "seqno": 105,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf1mEl7Q2eZB3DnTZNcDWzErd+asVQ2+wBIkl8VVBoG8Kp3BheWxvYWTESpcCacQgJPeIUOcMWIwjhLKEjLkZ9CKgkaNRt3VZCEg6hnc2NUXEIOF8YGE9XiseTWS3C5ojrxoPFTvo26akX8Q2Xzc1wSlmAgHCo3NpZ8RAVZq77Bqlwr+/JU6r/Bo11+eOMMMhlKzGMOkxL134BQNO+Itn5ZDszHaVZTsVwcG//yIhv3c2XmsavInmu5oYAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILyuUNs54xu9JUH3DZtAJHRgfMathuZMeXbuAi6nW3f4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/td00
+
+==================================================================
